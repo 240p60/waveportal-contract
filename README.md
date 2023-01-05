@@ -1,4 +1,4 @@
-Wave 👋 SmartContract
+WavePortal 👋 SmartContract
 
 This contract allow people wave to us and send us a message. 
 Show all the past waves/messages we've gotten.
